@@ -1,7 +1,4 @@
 require 'pry'
-
-
-class School
   class School
 
     attr_reader :name, :roster, :grade
@@ -27,6 +24,3 @@ class School
     end
 
   end
-
-
-end
